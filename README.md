@@ -1,4 +1,7 @@
 # assembly
-This is my Final Project in my Assembly Language Class
+This repository contains various programs written in the Assembly programming language
 
-It is chutes and ladders and uses the spacebar as input to move character.
+1. Shellcode
+  - This assignment was given to us in which we had to edit given shellcode to contain no null bytes and be reduced in size while still preforming the desired function
+2. Final Assembly Project
+  - This was my Final Project in my Assembly Language class, I did chutes and ladders for my project
